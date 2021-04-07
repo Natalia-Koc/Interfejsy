@@ -1,0 +1,13 @@
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\bin\Debug\netcoreapp3.1\Lab04_Interfejsy.exe
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\bin\Debug\netcoreapp3.1\Lab04_Interfejsy.deps.json
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\bin\Debug\netcoreapp3.1\Lab04_Interfejsy.runtimeconfig.json
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\bin\Debug\netcoreapp3.1\Lab04_Interfejsy.runtimeconfig.dev.json
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\bin\Debug\netcoreapp3.1\Lab04_Interfejsy.dll
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\bin\Debug\netcoreapp3.1\Lab04_Interfejsy.pdb
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\obj\Debug\netcoreapp3.1\Lab04_Interfejsy.csprojAssemblyReference.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\obj\Debug\netcoreapp3.1\Lab04_Interfejsy.AssemblyInfoInputs.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\obj\Debug\netcoreapp3.1\Lab04_Interfejsy.AssemblyInfo.cs
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\obj\Debug\netcoreapp3.1\Lab04_Interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\obj\Debug\netcoreapp3.1\Lab04_Interfejsy.dll
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\obj\Debug\netcoreapp3.1\Lab04_Interfejsy.pdb
+C:\Users\Tala\Desktop\STUDIA\semestr 6\PZ\Lab04_Interfejsy\obj\Debug\netcoreapp3.1\Lab04_Interfejsy.genruntimeconfig.cache
